@@ -1,0 +1,3 @@
+# Marimo Rêverie
+
+Marimo Rêverie is an interactive and generative system that demonstrates the dream of marimo, a species filamentous green algae. Marimo became somewhat popular as a plant pet with their round shape and simple care needs. When a marimo becomes a plant pet, it loses the opportunity to form a new spherical mariomo by continuously tumbling and entangling the proliferating filaments with water currents in their natural environment. I created a web-based game in which marimo floating around and compete with the player for nutrients. The webpage is connected to a physical Marimo terrarium with sensors. The avatars of marimo in cyberspace changes with their living environment in real time.
